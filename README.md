@@ -1,5 +1,11 @@
 # Escuela Colombiana de Ingeniería
 # Arquitecturas de Software - ARSW
+## Integrantes
+### Santiago Avellaneda y Miguel Motta
+
+> [!IMPORTANT]  
+> La entrega se anexó como el archivo [`Solution`](Solution.md)
+
 ### Taller – Principio de Inversión de dependencias, Contenedores Livianos e Inyección de dependencias.
 
 Parte I. Ejercicio básico.
